@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1711267912
+::res://::1711302458
 icon.svg::CompressedTexture2D::4810075496621857534::1711267201::1711267206::1::::<><>::
 ::res://assets/::1711267345
 ::res://assets/animations/::1711267716
@@ -75,7 +75,7 @@ Mossy - Hanging Plants.png::CompressedTexture2D::7791650689758176883::1711267868
 Mossy - MossyHills.png::CompressedTexture2D::725768665981363956::1711267868::1711267901::1::::<><>::
 Mossy - TileSet.png::CompressedTexture2D::6621122609153289081::1711267868::1711267903::1::::<><>::
 ::res://assets/animations/Environment/Plants/::1711267900
-::res://assets/animations/Environment/Plants/BlueFlower1/::1711267849
+::res://assets/animations/Environment/Plants/BlueFlower1/::1711267921
 BlueFlower_00000.png::CompressedTexture2D::5737011850386015444::1711267845::1711267919::1::::<><>::
 BlueFlower_00001.png::CompressedTexture2D::3451811445231320839::1711267845::1711267919::1::::<><>::
 BlueFlower_00002.png::CompressedTexture2D::8301099947039847788::1711267845::1711267919::1::::<><>::
@@ -136,7 +136,7 @@ BlueFlower_00056.png::CompressedTexture2D::2502793517672941060::1711267845::1711
 BlueFlower_00057.png::CompressedTexture2D::247159387555000326::1711267845::1711267921::1::::<><>::
 BlueFlower_00058.png::CompressedTexture2D::7313203671424219349::1711267845::1711267921::1::::<><>::
 BlueFlower_00059.png::CompressedTexture2D::4953175980971323580::1711267845::1711267920::1::::<><>::
-::res://assets/animations/Environment/Plants/BlueFlower2/::1711267847
+::res://assets/animations/Environment/Plants/BlueFlower2/::1711267920
 BluePlantClosed_00000.png::CompressedTexture2D::8178857585581303305::1711267845::1711267920::1::::<><>::
 BluePlantClosed_00001.png::CompressedTexture2D::2383115106974218409::1711267845::1711267920::1::::<><>::
 BluePlantClosed_00002.png::CompressedTexture2D::1807072486709440419::1711267845::1711267920::1::::<><>::
@@ -197,7 +197,7 @@ BluePlantClosed_00056.png::CompressedTexture2D::1782567151584584723::1711267845:
 BluePlantClosed_00057.png::CompressedTexture2D::4445002450712416196::1711267845::1711267918::1::::<><>::
 BluePlantClosed_00058.png::CompressedTexture2D::4442424764852434188::1711267845::1711267919::1::::<><>::
 BluePlantClosed_00059.png::CompressedTexture2D::5201226185838101072::1711267845::1711267919::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 1/::1711267805
+::res://assets/animations/Environment/Plants/Plant 1/::1711267922
 Plant1_00000.png::CompressedTexture2D::4215462065215460421::1711267791::1711267919::1::::<><>::
 Plant1_00001.png::CompressedTexture2D::8710168185290117997::1711267791::1711267919::1::::<><>::
 Plant1_00002.png::CompressedTexture2D::2924470515815635886::1711267791::1711267919::1::::<><>::
@@ -288,7 +288,7 @@ Plant1_00086.png::CompressedTexture2D::7923497664223816774::1711267791::17112679
 Plant1_00087.png::CompressedTexture2D::3408213558502539709::1711267791::1711267922::1::::<><>::
 Plant1_00088.png::CompressedTexture2D::8726640632072836124::1711267791::1711267922::1::::<><>::
 Plant1_00089.png::CompressedTexture2D::9063410866761598374::1711267791::1711267922::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 2/::1711267814
+::res://assets/animations/Environment/Plants/Plant 2/::1711267922
 Plant2_00000.png::CompressedTexture2D::2085655946467476409::1711267813::1711267922::1::::<><>::
 Plant2_00001.png::CompressedTexture2D::3186060050339865752::1711267813::1711267922::1::::<><>::
 Plant2_00002.png::CompressedTexture2D::2975507240908121851::1711267813::1711267922::1::::<><>::
@@ -379,7 +379,7 @@ Plant2_00086.png::CompressedTexture2D::8944902058098524037::1711267813::17112679
 Plant2_00087.png::CompressedTexture2D::4605661765896434095::1711267813::1711267921::1::::<><>::
 Plant2_00088.png::CompressedTexture2D::7420779549874214085::1711267813::1711267921::1::::<><>::
 Plant2_00089.png::CompressedTexture2D::3673436188439743509::1711267813::1711267921::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 3/::1711267820
+::res://assets/animations/Environment/Plants/Plant 3/::1711267921
 Plant3_00000.png::CompressedTexture2D::7419093294865240172::1711267818::1711267921::1::::<><>::
 Plant3_00001.png::CompressedTexture2D::6178492552295386231::1711267818::1711267921::1::::<><>::
 Plant3_00002.png::CompressedTexture2D::4351920217836827127::1711267818::1711267921::1::::<><>::
@@ -470,7 +470,7 @@ Plant3_00086.png::CompressedTexture2D::8084513839569833977::1711267818::17112679
 Plant3_00087.png::CompressedTexture2D::3339656093639639002::1711267818::1711267915::1::::<><>::
 Plant3_00088.png::CompressedTexture2D::437815972775979902::1711267818::1711267915::1::::<><>::
 Plant3_00089.png::CompressedTexture2D::2027019673723862127::1711267818::1711267915::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 4/::1711267827
+::res://assets/animations/Environment/Plants/Plant 4/::1711267915
 Plant4_00000.png::CompressedTexture2D::9195875874147891781::1711267824::1711267915::1::::<><>::
 Plant4_00001.png::CompressedTexture2D::8832222345091486997::1711267824::1711267915::1::::<><>::
 Plant4_00002.png::CompressedTexture2D::8770927456253375572::1711267824::1711267915::1::::<><>::
@@ -531,7 +531,7 @@ Plant4_00056.png::CompressedTexture2D::4813432592575387806::1711267824::17112679
 Plant4_00057.png::CompressedTexture2D::8067893343674444320::1711267824::1711267915::1::::<><>::
 Plant4_00058.png::CompressedTexture2D::6885567983514830135::1711267824::1711267915::1::::<><>::
 Plant4_00059.png::CompressedTexture2D::400252922800254986::1711267824::1711267915::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 5/::1711267827
+::res://assets/animations/Environment/Plants/Plant 5/::1711267917
 Plant5_00000.png::CompressedTexture2D::521476687298263341::1711267824::1711267915::1::::<><>::
 Plant5_00001.png::CompressedTexture2D::4053699629381091284::1711267824::1711267915::1::::<><>::
 Plant5_00002.png::CompressedTexture2D::881101231350319319::1711267824::1711267915::1::::<><>::
@@ -592,7 +592,7 @@ Plant5_00056.png::CompressedTexture2D::6975636720995525142::1711267824::17112679
 Plant5_00057.png::CompressedTexture2D::6696553050495867133::1711267824::1711267917::1::::<><>::
 Plant5_00058.png::CompressedTexture2D::4230036950291695094::1711267824::1711267917::1::::<><>::
 Plant5_00059.png::CompressedTexture2D::2687005249342180491::1711267824::1711267917::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 6/::1711267826
+::res://assets/animations/Environment/Plants/Plant 6/::1711267917
 Plant6_00000.png::CompressedTexture2D::9064461587304578582::1711267824::1711267917::1::::<><>::
 Plant6_00001.png::CompressedTexture2D::4541664923930149975::1711267824::1711267917::1::::<><>::
 Plant6_00002.png::CompressedTexture2D::283800762758202350::1711267824::1711267917::1::::<><>::
@@ -653,7 +653,7 @@ Plant6_00056.png::CompressedTexture2D::6335608116873941323::1711267824::17112679
 Plant6_00057.png::CompressedTexture2D::7574371661482696682::1711267824::1711267916::1::::<><>::
 Plant6_00058.png::CompressedTexture2D::3023062161359243457::1711267824::1711267916::1::::<><>::
 Plant6_00059.png::CompressedTexture2D::318094476353291241::1711267824::1711267916::1::::<><>::
-::res://assets/animations/Environment/Plants/Plant 7/::1711267835
+::res://assets/animations/Environment/Plants/Plant 7/::1711267917
 Plant7_00000.png::CompressedTexture2D::5483653436970509262::1711267834::1711267916::1::::<><>::
 Plant7_00001.png::CompressedTexture2D::2226978977886666499::1711267834::1711267916::1::::<><>::
 Plant7_00002.png::CompressedTexture2D::5744825409847334629::1711267834::1711267916::1::::<><>::
@@ -784,5 +784,7 @@ Chara_BlueWalk00017.png::CompressedTexture2D::5505517648376046362::1711267391::1
 Chara_BlueWalk00018.png::CompressedTexture2D::7328267086274303435::1711267391::1711267628::1::::<><>::
 Chara_BlueWalk00019.png::CompressedTexture2D::9066366951031188040::1711267391::1711267628::1::::<><>::
 ::res://assets/audio/::1711267338
-::res://scenes/::1711267250
-::res://scripts/::1711267242
+::res://scenes/::1711271660
+level.tscn::PackedScene::8820085033363445131::1711271660::0::1::::<><>::res://scripts/level.gd
+::res://scripts/::1711271660
+level.gd::GDScript::-1::1711271660::0::1::::<>Node2D<>::

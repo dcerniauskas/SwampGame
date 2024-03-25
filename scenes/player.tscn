@@ -211,7 +211,7 @@ animations = [{
 "duration": 1.0,
 "texture": ExtResource("45_dg2au")
 }],
-"loop": true,
+"loop": false,
 "name": &"Jump",
 "speed": 20.0
 }, {
@@ -291,9 +291,13 @@ script = ExtResource("1_q7ydk")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(0, -255)
 sprite_frames = SubResource("SpriteFrames_sbp3x")
-animation = &"Idle"
+animation = &"Jump"
 autoplay = "Idle"
+frame = 7
+frame_progress = 1.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-1.5, -248.25)
 shape = SubResource("RectangleShape2D_efcr3")
+
+[node name="Camera2D" type="Camera2D" parent="."]

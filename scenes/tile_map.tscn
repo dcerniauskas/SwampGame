@@ -1,0 +1,66 @@
+[gd_scene load_steps=4 format=3 uid="uid://cyj3pdjvkhfcr"]
+
+[ext_resource type="Texture2D" uid="uid://c1lk6l34l40c0" path="res://assets/animations/Environment/Mossy Tileset/Mossy - TileSet.png" id="1_44gpj"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_so6x1"]
+resource_name = "Ground Floating"
+texture = ExtResource("1_44gpj")
+texture_region_size = Vector2i(512, 512)
+0:0/0 = 0
+1:0/0 = 0
+2:0/0 = 0
+3:0/0 = 0
+4:0/0 = 0
+5:0/0 = 0
+6:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+2:1/0 = 0
+3:1/0 = 0
+4:1/0 = 0
+5:1/0 = 0
+6:1/0 = 0
+0:2/0 = 0
+1:2/0 = 0
+2:2/0 = 0
+3:2/0 = 0
+4:2/0 = 0
+5:2/0 = 0
+6:2/0 = 0
+0:3/0 = 0
+1:3/0 = 0
+2:3/0 = 0
+3:3/0 = 0
+4:3/0 = 0
+5:3/0 = 0
+6:3/0 = 0
+0:4/0 = 0
+1:4/0 = 0
+2:4/0 = 0
+3:4/0 = 0
+4:4/0 = 0
+5:4/0 = 0
+6:4/0 = 0
+0:5/0 = 0
+1:5/0 = 0
+2:5/0 = 0
+3:5/0 = 0
+4:5/0 = 0
+5:5/0 = 0
+6:5/0 = 0
+0:6/0 = 0
+1:6/0 = 0
+2:6/0 = 0
+3:6/0 = 0
+4:6/0 = 0
+5:6/0 = 0
+6:6/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_v1gam"]
+tile_size = Vector2i(512, 512)
+sources/0 = SubResource("TileSetAtlasSource_so6x1")
+
+[node name="TileMap" type="TileMap"]
+tile_set = SubResource("TileSet_v1gam")
+format = 2
+layer_0/tile_data = PackedInt32Array(65534, 0, 0, 65535, 65536, 0, 0, 131072, 0, 65536, 131072, 1)
